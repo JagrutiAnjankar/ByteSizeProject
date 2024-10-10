@@ -1,0 +1,11 @@
+{
+    "inbound_folder": "D:/ByteSizeProject/usecase1/s3_bucket/Inbound",
+    "preprocess_folder": "D:/ByteSizeProject/usecase1/s3_bucket/Preprocess",
+    "landing_folder": "D:/ByteSizeProject/usecase1/s3_bucket/Landing",
+    "standardized_folder": "D:/ByteSizeProject/usecase1/s3_bucket/Standardized",
+    "counter_file_path": "D:/ByteSizeProject/usecase1/s3_bucket/Common/CounterFile.txt",
+    "header_file_path": "D:/ByteSizeProject/usecase1/s3_bucket/Common/HeaderFile.txt",
+    "summary_folder": "D:/ByteSizeProject/usecase1/s3_bucket/Summarized",
+    "outbound_folder": "D:/ByteSizeProject/usecase1/s3_bucket/Outbound",
+    "archive_folder": "D:/ByteSizeProject/usecase1/s3_bucket/Archive"
+}
